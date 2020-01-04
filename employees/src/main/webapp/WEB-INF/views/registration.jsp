@@ -12,7 +12,7 @@
 <style>
 
 	.error {
-		color: #ff0000;
+		color: #000080;
 	}
 </style>
 
